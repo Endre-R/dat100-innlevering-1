@@ -1,7 +1,6 @@
 package no.hvl.dat100;
 
-import static javax.swing.JOptionPane.showInputDialog;
-import static javax.swing.JOptionPane.showMessageDialog;
+import static javax.swing.JOptionPane.*;
 
 public class O1 {
 
@@ -58,6 +57,5 @@ public class O1 {
 
 			showMessageDialog(null, "Skatt å betale: " + x4);
 		}
-
 	}
 }
